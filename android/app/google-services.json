@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515794928903",
+    "project_id": "sign-in-and-sign-up-hw",
+    "storage_bucket": "sign-in-and-sign-up-hw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515794928903:android:6fc827f30fc7dab7d171a2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_practice45_firebase_hw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7TkZRdZrmJMU_y8T0xtGZ7CgInofMlhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
